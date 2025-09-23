@@ -11,6 +11,7 @@
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas.
   
 #
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
@@ -19,12 +20,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/carlos_brcaulg/)
 
-#
 
-<div align="center">
-  <h3>✨ Languages and Tools ✨</h3>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nodejs,python,git,github,vscode,figma,photoshop&perline=10" />
-</div>
 
 #
 
@@ -38,6 +34,7 @@
   </a>
 </div>
 
+
 #
 
 <picture align="center">
@@ -45,5 +42,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrCaulG/BrCaulG/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/output/github-contribution-grid-snake.svg">
 </picture>
-
 
