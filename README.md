@@ -23,7 +23,7 @@
 
 <div align="center">
   <h3>✨ Languages and Tools ✨</h3>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nodejs,python,git,github,vscode,figma,photoshop&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c=10" />
 </div>
 
 #
