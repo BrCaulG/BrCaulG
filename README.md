@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas, fã de Resident Evil, musica, jogos no geral.
   
 #
 
