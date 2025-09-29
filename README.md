@@ -1,12 +1,22 @@
 <!-- BANNER NO TOPO -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/download.gif" alt="Cyberpunk Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/bpxxqqvps4h91.gif" alt="Cyberpunk Banner" width="100%" />
 </div>
 
-<!-- GIF NO CANTO ESQUERDO + FRASE -->
-<div align="left">
+<!-- GIFS LADO ESQUERDO E DIREITO + FRASE -->
+
+<div align="left" style="width: 100%;">
   <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/d.gif" width="180px" alt="Side Gif">
   <p><i>"I am your father."</i></p>
+</div>
+
+<div align="right" style="width: 100%; margin-top: -120px;">
+  <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/agrvai.gif" width="180px" alt="Right Gif">
+</div>
+
+
+<br clear="both"/>
+
 <!-- FRASE CYBERPUNK NO TOPO -->
 <div align="center">
   <h2 style="font-weight: bold;">
@@ -25,7 +35,6 @@
 
 ---
 
-<!-- CONTATO -->
 <h3 align="center">🌐 Conecte-se comigo</h3>
 <p align="center">
   <a href="https://www.instagram.com/carlos_brcaulg/">
@@ -35,12 +44,10 @@
 
 ---
 
-<!-- SEPARADOR CYBERPUNK -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=footer" width="60%">
 </div>
 
-<!-- LINGUAGENS -->
 <div align="center">
   <h3>🧬 Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,java" />
@@ -48,7 +55,6 @@
 
 ---
 
-<!-- BLOCO ESTILIZADO NO LUGAR DOS STATS -->
 <div align="center">
   <h3>⚡ Cyber Mode Activated ⚡</h3>
   <p>
@@ -59,10 +65,8 @@
 
 ---
 
-<!-- COBRINHA -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrCaulG/BrCaulG/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrCaulG/BrCaulG/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/output/github-contribution-grid-snake.svg">
 </picture>
-
