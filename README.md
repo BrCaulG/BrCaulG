@@ -3,19 +3,23 @@
   <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/bpxxqqvps4h91.gif" alt="Cyberpunk Banner" width="100%" />
 </div>
 
-<!-- GIFS LADO ESQUERDO E DIREITO + FRASE -->
+<!-- GIFS + FRASE (ALINHADOS) -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
-<div align="left" style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/d.gif" width="180px" alt="Side Gif">
-  <p><i>"I am your father."</i></p>
+  <!-- ESQUERDA: GIF + FRASE -->
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/d.gif" width="180px" alt="Side Gif">
+    <p><i>"I'm your father."</i></p>
+  </div>
+
+  <!-- DIREITA: GIF -->
+  <div>
+    <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/agrvai.gif" width="180px" alt="Right Gif">
+  </div>
+
 </div>
 
-<div align="right" style="width: 100%; margin-top: -120px;">
-  <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/agrvai.gif" width="180px" alt="Right Gif">
-</div>
-
-
-<br clear="both"/>
+<br/>
 
 <!-- FRASE CYBERPUNK NO TOPO -->
 <div align="center">
@@ -70,3 +74,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrCaulG/BrCaulG/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/output/github-contribution-grid-snake.svg">
 </picture>
+
