@@ -4,30 +4,22 @@
 </div>
 
 <!-- GIFS + FRASE (ALINHADOS) -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/d.gif" width="180px" alt="Side Gif">
+  <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/agrvai.gif" width="180px" alt="Right Gif">
+</p>
 
-  <!-- ESQUERDA: GIF + FRASE -->
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/d.gif" width="180px" alt="Side Gif">
-    <p><i>"I'm your father."</i></p>
-  </div>
-
-  <!-- DIREITA: GIF -->
-  <div>
-    <img src="https://raw.githubusercontent.com/BrCaulG/BrCaulG/main/agrvai.gif" width="180px" alt="Right Gif">
-  </div>
-
-</div>
+<p align="center">
+  <i>"I'm your father."</i>
+</p>
 
 <br/>
 
 <!-- FRASE CYBERPUNK NO TOPO -->
-<div align="center">
-  <h2 style="font-weight: bold;">
-    <span style="color:#FF00F6;">▹ SYSTEM ONLINE ▹</span><br>
-    <span style="color:#8A2BE2;">WELCOME TO THE NEON ZONE</span>
-  </h2>
-</div>
+<h2 align="center">
+  ▹ SYSTEM ONLINE ▹<br>
+  WELCOME TO THE NEON ZONE
+</h2>
 
 <br><br>
 
